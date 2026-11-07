@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm Austin, a high-schooler learning and experimenting on how to code.
 
-I've learned how to make basic websites and website with minimal javascript and have now directed my focus
-on learning how to program for robots. So now I'm learning programming languages like Python, Java, and C++.
+I've learned how to make basic websites and websites with minimal JavaScript and have now directed my focus
+on learning how to program for robotics. So now I'm learning programming languages like Python, Java, and C++.
