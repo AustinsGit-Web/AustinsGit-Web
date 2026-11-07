@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEy there! 👋
 
 <!--
 **AustinsGit-Web/AustinsGit-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Austin, a high-schooler learning and experimenting on how to code.
+
+I've learned how to make basic websites and website with minimal javascript and have now directed my focus
+on learning how to program for robots. So now I'm learning programming languages like Python, Java, and C++.
